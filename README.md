@@ -1,4 +1,11 @@
-# SDES2016
+Name: Suraj Sanka
 
-Git repo for SDES course for the July to November
-2016 semester.
+Course: SDES
+
+Department: Aerospace Engineering
+
+Roll number: 130010057
+
+Year: 2016
+
+Research/study interests: Coding
